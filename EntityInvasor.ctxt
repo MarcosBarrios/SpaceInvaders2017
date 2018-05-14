@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EntityInvasor
+comment0.text=\r\n\ Clase\ para\ los\ invasores\ del\ juego.\r\n\ \r\n\ @author\ M.\ B.\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y\ ancho\ alto\ e
+comment1.target=EntityInvasor(int,\ int,\ int,\ int,\ Entities)
+comment2.params=
+comment2.target=void\ moverse()
+comment2.text=\r\n\ Implemente\ la\ manera\ en\ la\ que\ se\ mueve\ el\ elemento\r\n
+comment3.params=
+comment3.target=void\ disparar()
+comment3.text=\r\n\ Comportamiento\ a\ la\ hora\ de\ disparar.\ Similar\ al\ del\ jugador.\r\n
+comment4.params=mv
+comment4.target=void\ setMovimientoVertical(boolean)
+comment5.params=
+comment5.target=boolean\ movimientoVertical()
+numComments=6

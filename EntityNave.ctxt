@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EntityNave
+comment0.text=\r\n\ Clase\ para\ la\ nave\ del\ jugador,\ controlada\ en\ tiempo\ real\ mediante\ las\ teclas\r\n\ \ O\ (movimiento\ izquierdo)\ y\ P\ (movimiento\ derecho)\r\n\ \r\n\ @author\ M.\ B.\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y\ ancho\ alto\ e
+comment1.target=EntityNave(int,\ int,\ int,\ int,\ Entities)
+comment2.params=
+comment2.target=void\ moverse()
+comment2.text=\r\n\ M\u00E9todo\ llamado\ para\ el\ movimiento\ del\ elemento\r\n
+comment3.params=
+comment3.target=void\ disparar()
+comment3.text=\r\n\ Implementa\ el\ comportamiento\ de\ disparo\ del\ jugador\r\n
+numComments=4

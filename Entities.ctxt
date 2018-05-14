@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Entities
+comment0.text=\r\n\ Esta\ clase\ contiene\ todos\ los\ elementos\ del\ juego.\r\n\ \r\n\ @author\ M.\ B.\ \r\n\ @version\ 1.0\r\n
+comment1.params=nInvasores\ largoRenderizador\ altoRenderizador
+comment1.target=Entities(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Entities\r\n
+comment2.params=
+comment2.target=void\ crearElementos()
+comment3.params=
+comment3.target=void\ reiniciar()
+comment4.params=e
+comment4.target=void\ a\u00F1adirElemento(Entity)
+comment5.params=id
+comment5.target=void\ eliminarElemento(int)
+comment6.params=id
+comment6.target=Entity\ elemento(int)
+comment7.params=
+comment7.target=int\ tama\u00F1o()
+comment8.params=
+comment8.target=EntityNave\ jugador()
+numComments=9

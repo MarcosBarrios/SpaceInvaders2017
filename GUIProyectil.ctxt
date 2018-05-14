@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GUIProyectil
+comment0.text=\r\n\ Clase\ encargada\ de\ la\ parte\ gr\u00E1fica\ de\ los\ proyectiles,\ utilizada\r\n\ por\ el\ renderizador.\r\n\ \r\n\ @author\ M.\ B.\r\n\ @version\ 1.0\r\n
+comment1.params=posx\ posy\ tama\u00F1ox\ tama\u00F1oyr
+comment1.target=GUIProyectil(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GUIProyectil\r\n
+comment2.params=
+comment2.target=java.awt.Color\ color()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=int\ getLargo()
+comment6.params=
+comment6.target=int\ getAlto()
+numComments=7

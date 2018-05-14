@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Util
+comment0.text=\r\n\ Una\ de\ las\ clases\ m\u00E1s\ importantes.\ Encargada\ de\ b\u00FAsquedas\ esenciales\ y\ \r\n\ de\ las\ colisiones.\r\n\ \r\n\ @author\ M.\ B.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Util()
+comment2.params=e
+comment2.target=EntityInvasor\ invasorMaxPosX(Entities)
+comment2.text=\r\n\ Devuelve\ el\ invasor\ que\ est\u00E9\ m\u00E1s\ a\ la\ derecha\r\n\ \r\n\ @return\ invasor\ m\u00E1s\ a\ la\ derecha\r\n\ @param\ Entities\ elementos\ del\ juego\r\n
+comment3.params=e\ minGrid
+comment3.target=EntityInvasor\ invasorMinPosX(Entities,\ int)
+comment3.text=\r\n\ Devuelve\ el\ invasor\ que\ est\u00E9\ m\u00E1s\ a\ la\ izquierda\r\n\ \r\n\ @return\ invasor\ m\u00E1s\ a\ la\ izquierda\r\n\ @param\ Entities\ elementos\ del\ juego\r\n
+comment4.params=e
+comment4.target=EntityInvasor\ invasorMaxPosY(Entities)
+comment4.text=\r\n\ Devuelve\ el\ invasor\ m\u00E1s\ cercano\ al\ jugador\r\n\ @param\ Entities\ elementos\ del\ juego\r\n
+comment5.params=e
+comment5.target=java.util.ArrayList\ proyectilesActivos(Entities)
+comment5.text=\r\n\ Devuelve\ los\ proyectiles\ que\ est\u00E1n\ activos\ en\ el\ juego\r\n\ @param\ Entities\ elementos\ del\ juego\r\n
+comment6.params=p\ e
+comment6.target=EntityViva\ colisionProyectil(EntityProyectil,\ Entities)
+comment6.text=\r\n\ Comprueba\ la\ posici\u00F3n\ de\ los\ proyectiles\ con\ respecto\ a\ los\ entities\ y\ devuelve\ el\ invasor\r\n\ con\ el\ que\ ha\ colisionado\ el\ proyectil.\r\n\ @param\ p\ proyectil\ a\ comprobar,\ Entities\ elementos\ del\ juego\r\n\ @return\ EntityViva\ que\ ha\ colisionado\ con\ el\ proyectil\ proporcionado\r\n
+comment7.params=e
+comment7.target=java.util.ArrayList\ invasores(Entities)
+comment7.text=\r\n\ Devuelve\ un\ ArrayList\ con\ todos\ los\ invasores\ activos\ del\ juego\r\n\ @param\ Entities\ elementos\ del\ juego\r\n\ @return\ ArrayList\ con\ los\ invasores\ del\ juego\r\n
+numComments=8

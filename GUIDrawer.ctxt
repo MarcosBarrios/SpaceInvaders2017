@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GUIDrawer
+comment0.text=\r\n\ Este\ es\ el\ componente\ que\ renderiza\ el\ juego.\ Utiliza\ la\ clase\ Graphics\ de\ \r\n\ java\ para\ dibujar\ en\ pantalla\ los\ elementos\ del\ juego.\ No\ realiza\ ning\u00FAn\ tipo\ de\r\n\ transformaci\u00F3n,\ \u00FAnicamente\ dibuja\ seg\u00FAn\ la\ posici\u00F3n\ que\ cada\ elemento\ tenga\r\n\ dentro\ de\ su\ clase\ l\u00F3gica\r\n\ \r\n\ @author\ Marcos\ B.\r\n\ @version\ 1.0\r\n
+comment1.params=ancho\ alto\ activo\ e
+comment1.target=GUIDrawer(int,\ int,\ boolean,\ Entities)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GUIDrawer\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\ M\u00E9todo\ encargado\ de\ dibujar\ el\ componente\ en\ pantalla\r\n\ @param\ graphics\ de\ la\ clase\ padre\ componentes\r\n
+comment3.params=
+comment3.target=void\ actualizar()
+comment3.text=\r\n\ M\u00E9todo\ encargado\ de\ actualizar\ gr\u00E1ficamente\ el\ panel\r\n
+comment4.params=activo
+comment4.target=void\ cambiarEstado(boolean)
+comment4.text=\r\n\ Encargado\ de\ controlar\ el\ estado\ del\ panel.\r\n
+comment5.params=
+comment5.target=boolean\ getEstado()
+comment5.text=\r\n\ Estado\ del\ panel\r\n\ @return\ estado\ del\ panel,\ true\ \=\ renderizando\ /\ false\ \=\ terminado\r\n
+numComments=6
